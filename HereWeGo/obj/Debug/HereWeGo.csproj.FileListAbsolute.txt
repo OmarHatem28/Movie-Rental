@@ -1,0 +1,41 @@
+E:\Work\FCI\second year 2 nd term\data structure\HereWeGo\HereWeGo\bin\Debug\HereWeGo.exe.config
+E:\Work\FCI\second year 2 nd term\data structure\HereWeGo\HereWeGo\bin\Debug\HereWeGo.exe
+E:\Work\FCI\second year 2 nd term\data structure\HereWeGo\HereWeGo\bin\Debug\HereWeGo.pdb
+E:\Work\FCI\second year 2 nd term\data structure\HereWeGo\HereWeGo\obj\Debug\HereWeGo.csprojResolveAssemblyReference.cache
+E:\Work\FCI\second year 2 nd term\data structure\HereWeGo\HereWeGo\obj\Debug\HereWeGo.Admin.resources
+E:\Work\FCI\second year 2 nd term\data structure\HereWeGo\HereWeGo\obj\Debug\HereWeGo.Form1.resources
+E:\Work\FCI\second year 2 nd term\data structure\HereWeGo\HereWeGo\obj\Debug\HereWeGo.Properties.Resources.resources
+E:\Work\FCI\second year 2 nd term\data structure\HereWeGo\HereWeGo\obj\Debug\HereWeGo.csproj.GenerateResource.Cache
+E:\Work\FCI\second year 2 nd term\data structure\HereWeGo\HereWeGo\obj\Debug\HereWeGo.exe
+E:\Work\FCI\second year 2 nd term\data structure\HereWeGo\HereWeGo\obj\Debug\HereWeGo.pdb
+E:\Work\FCI\second year 2 nd term\data structure\HereWeGo\HereWeGo\obj\Debug\HereWeGo.Customer.resources
+E:\Work\FCI\second year 2 nd term\data structure\HereWeGo\HereWeGo\obj\Debug\HereWeGo.AdminActions.resources
+E:\Work\FCI\second year 2 nd term\data structure\HereWeGo\HereWeGo\obj\Debug\HereWeGo.Insert.resources
+C:\Users\lenovo\Downloads\HereWeGo\HereWeGo\bin\Debug\HereWeGo.exe.config
+C:\Users\lenovo\Downloads\HereWeGo\HereWeGo\obj\Debug\HereWeGo.exe
+C:\Users\lenovo\Downloads\HereWeGo\HereWeGo\obj\Debug\HereWeGo.pdb
+C:\Users\lenovo\Downloads\HereWeGo\HereWeGo\bin\Debug\HereWeGo.exe
+C:\Users\lenovo\Downloads\HereWeGo\HereWeGo\bin\Debug\HereWeGo.pdb
+C:\Users\lenovo\Downloads\HereWeGo\HereWeGo\obj\Debug\HereWeGo.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Downloads\HereWeGo\HereWeGo\obj\Debug\HereWeGo.Admin.resources
+C:\Users\lenovo\Downloads\HereWeGo\HereWeGo\obj\Debug\HereWeGo.AdminActions.resources
+C:\Users\lenovo\Downloads\HereWeGo\HereWeGo\obj\Debug\HereWeGo.Customer.resources
+C:\Users\lenovo\Downloads\HereWeGo\HereWeGo\obj\Debug\HereWeGo.Form1.resources
+C:\Users\lenovo\Downloads\HereWeGo\HereWeGo\obj\Debug\HereWeGo.Insert.resources
+C:\Users\lenovo\Downloads\HereWeGo\HereWeGo\obj\Debug\HereWeGo.Properties.Resources.resources
+C:\Users\lenovo\Downloads\HereWeGo\HereWeGo\obj\Debug\HereWeGo.csproj.GenerateResource.Cache
+C:\Users\lenovo\Downloads\HereWeGo\HereWeGo\obj\Debug\HereWeGo.CustomerLogin.resources
+C:\Users\lenovo\Downloads\HereWeGo\HereWeGo\obj\Debug\HereWeGo.CustomerSignUp.resources
+C:\Users\lenovo\Downloads\HereWeGo\HereWeGo\obj\Debug\HereWeGo.DeleteMovie.resources
+C:\Users\lenovo\Downloads\HereWeGo\HereWeGo\obj\Debug\HereWeGo.UpdateCustomer.resources
+C:\Users\lenovo\Downloads\HereWeGo\HereWeGo\obj\Debug\HereWeGo.DeleteCustomer.resources
+C:\Users\lenovo\Downloads\HereWeGo\HereWeGo\obj\Debug\HereWeGo.UpdateMovie.resources
+C:\Users\lenovo\Downloads\HereWeGo\HereWeGo\obj\Debug\HereWeGo.rent.resources
+C:\Users\lenovo\Downloads\HereWeGo\HereWeGo\obj\Debug\HereWeGo.returnMovies.resources
+C:\Users\lenovo\Downloads\HereWeGo\HereWeGo\obj\Debug\HereWeGo.Report.resources
+C:\Users\lenovo\Downloads\HereWeGo\HereWeGo\obj\Debug\RdlCompile.cache
+C:\Users\lenovo\Downloads\HereWeGo\HereWeGo\obj\Debug\RdlCompile.compiled
+C:\Users\lenovo\Downloads\HereWeGo\HereWeGo\obj\Debug\HereWeGo.OurCustomers.resources
+C:\Users\lenovo\Downloads\FCI\Courses\Projects\Movie Rental\HereWeGo\bin\Debug\HereWeGo.exe.config
+C:\Users\lenovo\Downloads\FCI\Courses\Projects\Movie Rental\HereWeGo\obj\Debug\HereWeGo.exe
+C:\Users\lenovo\Downloads\FCI\Courses\Projects\Movie Rental\HereWeGo\obj\Debug\HereWeGo.pdb
